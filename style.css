@@ -99,7 +99,7 @@ header .navbar a:hover{
 }
 
 .home{
-  background: url(../images/home-bg.jpg) no-repeat;
+  background: url(Images/home-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 100vh;
